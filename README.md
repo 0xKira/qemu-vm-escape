@@ -1,7 +1,7 @@
 # qemu-vm-escape
 
 This is an exploit for [CVE-2019-6778](https://bugzilla.redhat.com/show_bug.cgi?id=1664205), a heap buffer overflow in slirp:tcp_emu(). For
-more information, see the [writeup](writeup_zh.md) (Sorry, only Chinese version available now) and the [slides](./Tensec2019-Vulnerability_Discovery_and_Exploitation_of_Virtualization_Solutions_for_Cloud_Computing_and_Desktops.pdf) for the talk in Tensec 2019 by [Marco](https://twitter.com/marcograss) and [me](https://twitter.com/KiraCxy).
+more information, see the [writeup](writeup_zh.md) (Sorry, only Chinese version available now) and the [slides](./Tensec2019-Vulnerability_Discovery_and_Exploitation_of_Virtualization_Solutions_for_Cloud_Computing_and_Desktops.pdf) for the talk in Tensec 2019 by [Marco](https://twitter.com/marcograss) and [me](https://twitter.com/0xKira233).
 
 ## Environment
 
